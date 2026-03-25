@@ -33,4 +33,14 @@ body {
 
 .card:hover {
   transform: scale(1.03);
+}h2 {
+  margin-bottom: 20px;
+}
+
+.card h3 {
+  margin-top: 0;
+}
+
+.card p {
+  color: #555;
 }
