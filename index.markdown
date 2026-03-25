@@ -2,11 +2,24 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-l---
-layout: home
-title: Mi Blog
+---
+---
+layout: default
+title: Inicio
 ---
 
-# Bienvenido a mi blog 🚀
+<h2>📰 Últimos artículos</h2>
 
-Aquí voy a subir mis escritos.
+<div class="grid">
+
+  <div class="card">
+    <h3>Mi primer escrito</h3>
+    <p>Un pequeño resumen de mi texto.</p>
+  </div>
+
+  <div class="card">
+    <h3>Segundo artículo</h3>
+    <p>Otro contenido interesante.</p>
+  </div>
+
+</div>
